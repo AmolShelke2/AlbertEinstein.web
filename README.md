@@ -39,6 +39,4 @@ I'm a student And currently learning frontend Developement!
 
 For support, email shelkeamol897@gamil.com or reach me at twitter @Amol_shelke09
 
-## Screenshots
 
-![127 0 0 1_5500_html_index html (1)](https://user-images.githubusercontent.com/92196638/142767033-cdd2b4a8-b1bb-4dd5-a656-9a5464f55205.png)
